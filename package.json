@@ -1,0 +1,28 @@
+{
+  "name": "generate-enums",
+  "version": "1.0.0",
+  "description": "Utility for generating enumerated values",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "watch": "node --watch",
+    "coverage": "node --test --experimental-test-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TracyGJG/generate-enums.git"
+  },
+  "keywords": [
+    "Enumerations"
+  ],
+  "author": "Tracy-Gregory Gilmore",
+  "license": "CC-BY-1.0",
+  "bugs": {
+    "url": "https://github.com/TracyGJG/generate-enums/issues"
+  },
+  "homepage": "https://github.com/TracyGJG/generate-enums#readme",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
