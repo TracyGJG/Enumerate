@@ -1,5 +1,5 @@
 {
-  "name": "generate-enums",
+  "name": "Enumerate",
   "version": "1.0.0",
   "description": "Utility for generating enumerated values",
   "main": "index.js",
